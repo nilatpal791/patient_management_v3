@@ -1,0 +1,3 @@
+C:/Users/nilatpal/code_pj/patient_management_v3/build/CMakeFiles/appointment_manager.dir
+C:/Users/nilatpal/code_pj/patient_management_v3/build/CMakeFiles/edit_cache.dir
+C:/Users/nilatpal/code_pj/patient_management_v3/build/CMakeFiles/rebuild_cache.dir
